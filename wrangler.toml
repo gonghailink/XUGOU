@@ -12,7 +12,7 @@ crons = ["* * * * *"]
 [[d1_databases]]
 binding = "DB"
 database_name = "xugou"
-database_id = "3a6158b2-98c7-4f32-a52b-88bcfa5f4184"
+database_id = "e82d55bf-d6e6-4218-8e15-ca125e80bbf3"
 
 [assets]
 binding = "ASSETS"
